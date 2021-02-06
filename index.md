@@ -1,12 +1,9 @@
 ## LOS DATOS SON EL RESULTADO DE UNA REALIDAD COMPLEJA
 
-You can use the [editor on GitHub](https://github.com/rstartdas/datoscomorelatos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Particles (his)stories and the poetic sound of datastorm.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 LOS DATOS SON EL RESULTADO DE UNA REALIDAD COMPLEJA
