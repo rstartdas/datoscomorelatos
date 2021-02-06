@@ -1,7 +1,7 @@
 ## LOS DATOS SON EL RESULTADO DE UNA REALIDAD COMPLEJA
 
 
-### Particles (his)stories and the poetic sound of datastorm.
+### Particles (hi)story and the poetic sound of datastorm in the quantum century
 
 
 
