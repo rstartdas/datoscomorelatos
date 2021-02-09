@@ -8,11 +8,12 @@
 ```markdown
 LOS DATOS SON EL RESULTADO DE UNA REALIDAD COMPLEJA
 
-# Header 1
-## Header 2
-### Header 3
+#  1
+##  2
+###  3
+      .
 
-- Bulleted
+- Drift & Randomness 
 - List
 
 1. Numbered
@@ -20,12 +21,12 @@ LOS DATOS SON EL RESULTADO DE UNA REALIDAD COMPLEJA
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](http://rstart.cl/snf) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Usando R como paradigma poetica para el proceso de sonificaión [El Sonido de Los Datos](http://rstart.cl/snf).
 
-### Jekyll Themes
+### El Canto invisible
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rstartdas/datoscomorelatos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
