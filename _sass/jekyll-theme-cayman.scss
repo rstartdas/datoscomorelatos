@@ -26,7 +26,7 @@
 }
 
 body {
-  background-color: rgb(250, 250, 250);
+  background-color: rgb(17, 29, 46);
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -128,7 +128,7 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
-  color: rgb(17, 29, 46);
+  color: rgb(250, 250, 250);
 
   @include large {
     font-size: 3.25rem;
@@ -246,7 +246,7 @@ a {
       color: $code-text-color;
       word-break: normal;
       white-space: pre;
-      background: transparent;
+      background: black;
       border: 0;
     }
   }
